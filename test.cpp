@@ -12,3 +12,9 @@ void quicksort(){
 void mergesort(){
     //code content
 }
+
+void selectionsort(){
+    //code
+}
+
+//ready for pull request
