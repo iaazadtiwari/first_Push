@@ -8,6 +8,7 @@ int main(){
 void quicksort(){
     //code content
 }
+
 void mergesort(){
-    //code content goes here
+    //code content
 }
