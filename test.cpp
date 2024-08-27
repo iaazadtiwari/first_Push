@@ -8,3 +8,7 @@ int main(){
 void quicksort(){
     //code content
 }
+
+void selectionsort(){
+    //code
+}
