@@ -12,3 +12,7 @@ void quicksort(){
 void mergesort(){
     //code content
 }
+
+void selectionsort(){
+    //code
+}
