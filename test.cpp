@@ -16,3 +16,5 @@ void mergesort(){
 void selectionsort(){
     //code
 }
+
+//ready for pull request
