@@ -5,3 +5,6 @@ int main(){
     cout<< "hello dosto";
 }
 
+void quicksort(){
+    //code content
+}
