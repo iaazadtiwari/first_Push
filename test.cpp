@@ -18,6 +18,3 @@ void selectionsort(){
 }
 
 //ready for pull request
-void selectionsort(){
-    //code
-}
